@@ -4,5 +4,6 @@ cheese
 oignons
 cornichons
 ketchup
-moutard
-manguee
+moutarde
+mangue
+
